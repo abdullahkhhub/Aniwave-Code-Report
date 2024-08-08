@@ -76,3 +76,5 @@ This part of the code does the following:
 ## Summary
 
 This script dynamically loads and runs another script inside a hidden iframe. The exact purpose is likely related to security, such as bot detection or verification, possibly through a service like Cloudflare. The use of an iframe helps isolate the injected script, providing a controlled environment that may be necessary for certain tasks like handling browser-specific behaviors or protecting against tampering.
+
+**Note:** As the site evolves, this documentation **may be updated in the future** to reflect changes or improvements in the scripts.
