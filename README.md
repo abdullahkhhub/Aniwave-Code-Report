@@ -78,3 +78,15 @@ This part of the code does the following:
 This script dynamically loads and runs another script inside a hidden iframe. The exact purpose is likely related to security, such as bot detection or verification, possibly through a service like Cloudflare. The use of an iframe helps isolate the injected script, providing a controlled environment that may be necessary for certain tasks like handling browser-specific behaviors or protecting against tampering.
 
 **Note:** As the site evolves, this documentation **may be updated in the future** to reflect changes or improvements in the scripts.
+
+## How to Contribute
+
+We welcome contributions to improve and extend the functionality of this repository. Here’s how you can contribute:
+
+1. **Commit Your Changes**: Commit your changes with a clear and concise message describing what you’ve done:
+   ```bash
+   git add .
+   git commit -m "Your descriptive commit message"
+   ```
+2. **Submit a Pull Request**: Go to the repository on GitHub, switch to your branch, and click "New Pull Request." Provide a detailed description of your changes and submit the pull request.
+
