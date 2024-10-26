@@ -79,6 +79,10 @@ This script dynamically loads and runs another script inside a hidden iframe. Th
 
 **Note:** As the site evolves, this documentation **may be updated in the future** to reflect changes or improvements in the scripts.
 
+## Aniwave Closure
+
+Please note that Aniwave was closed last August. This repository remains as an archive of the code used.
+
 ## How to Contribute
 
 We welcome contributions to improve and extend the functionality of this repository. Here’s how you can contribute:
@@ -89,4 +93,9 @@ We welcome contributions to improve and extend the functionality of this reposit
    git commit -m "Your descriptive commit message"
    ```
 2. **Submit a Pull Request**: Go to the repository on GitHub, switch to your branch, and click "New Pull Request." Provide a detailed description of your changes and submit the pull request.
+3. **Report Issues**: If you find any bugs or have suggestions for improvements, please open an issue on GitHub. Provide as much detail as possible to help us understand and address the problem.
+4. **Review Pull Requests**: Help us by reviewing existing pull requests. Provide constructive feedback and help us maintain code quality.
+5. **Improve Documentation**: If you find any part of the documentation unclear or incomplete, feel free to make improvements. Clear and comprehensive documentation helps everyone.
+6. **Share Ideas**: If you have ideas for new features or enhancements, open a discussion on GitHub. We value community input and collaboration.
 
+Thank you for your contributions!
